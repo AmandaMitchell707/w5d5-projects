@@ -1,0 +1,21 @@
+/* PHASE 6: Sidebar */
+.content-sidebar {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.profile-picture {
+  display: block;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin: 0 auto;
+  margin-top: -50px;
+  z-index: 1;
+}
+
+.profile-picture img {
+  width: 100%;
+  height: 100%;
+}
